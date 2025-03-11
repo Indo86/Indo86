@@ -38,5 +38,6 @@ I'm a passionate web developer from Indonesia who loves crafting modern web appl
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Indo86/Indo86/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200"/>
 </div>
+
