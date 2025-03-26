@@ -13,7 +13,6 @@ I'm a passionate web developer from Indonesia who loves crafting modern web appl
 - 🌱 I'm learning advanced Vue.js concepts and MongoDB optimization
 - 👯 I'm looking to collaborate on open-source web projects
 - 💬 Ask me about JavaScript, Vue.js, or anything web development related
-- ⚡ Fun fact: I believe good code is like universe - it is complex but beautiful!
 
 ## 🚀 Tech Stack
 
