@@ -1,40 +1,79 @@
-# 👋 Hello, I'm Deni Norman Zaky
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Web+Developer;Javascript+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+
+# Hi, I'm Deni Norman Zaky 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Practical+Web+Applications;Open+Source+Contributor" alt="Typing animation" />
+
+**Building practical web applications with clean, responsive interfaces.**
+
+<a href="https://deninz.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/deni-norman-zaky-5590a3187/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 </div>
 
+---
 
-## 💫 About Me
+### 💻 About Me
 
-I'm a passionate web developer from Indonesia who loves crafting modern web applications. Currently diving deep into the MEVN (MongoDB, Express.js, Vue.js, Node.js) stack to build full-stack solutions that combine powerful backends with beautiful, responsive frontends.
+I'm an Informatics graduate from Universitas Pembangunan Nasional "Veteran" Yogyakarta, Indonesia.
 
-- 🔭 I'm currently working on sharpening my MEVN stack skills
-- 🌱 I'm learning advanced Vue.js concepts and MongoDB optimization
-- 👯 I'm looking to collaborate on open-source web projects
-- 💬 Ask me about JavaScript, Vue.js, or anything web development related
+- 🔭 Building full-stack web applications and refining my portfolio projects.
+- 🌱 Strengthening software architecture, testing, and debugging skills.
+- 🤝 Interested in open-source development and collaboration.
+- 💼 Exploring opportunities in Full-Stack and Frontend Development.
 
-## 🚀 Tech Stack
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,vue,tailwind,nodejs,express,postgres,mysql,mongodb,git,docker&perline=6" alt="Technology stack" />
+
+</div>
+
+---
+
+### 🌍 Open Source Contributions
+
+<div align="center">
+
+Exploring, learning, and contributing to open-source projects.
+
+<br/>
+
+<a href="https://github.com/KaotoIO/kaoto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaotoIO&repo=kaoto&theme=github_dark&hide_border=true" alt="Kaoto repository" width="390" />
+</a>
+<a href="https://github.com/zonelessdev/zoneless">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zonelessdev&repo=zoneless&theme=github_dark&hide_border=true" alt="Zoneless repository" width="390" />
+</a>
+
+</div>
+
+---
+
+### ✨ A Little Developer Inspiration
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
+
+<br/>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpzNW8yMjR5MDVocHRhYXptbnY1ZDVrazlxdnFsdWVjZWFhNjhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding animation" />
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-</div>
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpzNW8yMjR5MDVocHRhYXptbnY1ZDVrazlxdnFsdWVjZWFhNjhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-</div>
+**Thanks for visiting! 👋**
 
+*Let's build something useful.*
+
+</div>
