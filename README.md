@@ -31,7 +31,7 @@ I'm an Informatics graduate from Universitas Pembangunan Nasional "Veteran" Yogy
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vue,tailwind,nodejs,express,postgres,mysql,mongodb,git,docker&perline=6" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,vue,tailwind,bootstrap,nodejs,express,php,postgres,mysql,mongodb,git,python,docker&perline=6" alt="Technology stack" />
 
 </div>
 
